@@ -67,5 +67,5 @@ val shravan = object : Developer {
 ---
 
 <div align="center">
-  ### git blame always points back to me and I've accepted that 😭
+   git blame always points back to me and I've accepted that 😭
 </div>
