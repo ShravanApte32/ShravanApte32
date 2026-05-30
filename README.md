@@ -1,21 +1,79 @@
-# Hi, I'm Shravan 👋
+<div align="center">
 
-**Senior Flutter & Android Developer** · 4.5+ years · Goa, India
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=hey%2C+I'm+Shravan+%F0%9F%91%8B;Flutter+%26+Android+dev+%F0%9F%93%B1;writing+dart+so+you+don't+write+two+codebases;based+in+Goa+%F0%9F%8C%8A" alt="Typing SVG" />
 
-I build production-grade mobile apps for real users —  
-from architecture to Play Store. Currently shipping a  
-multi-module travel platform serving 150+ active users.
+<br/>
 
-## 🛠 Tech Stack
-Flutter · Dart · Kotlin · Android SDK · MVVM
-Clean Architecture · Firebase · Jetpack Compose
-Coroutines · Flow · Retrofit · Room · CI/CD
+<p>Mobile dev from <b>Goa, India 🌊</b> · shipping apps since 2021 · Flutter & Android</p>
 
-## 📈 By the numbers
-- 15,000+ users across shipped apps
-- 98.5–99% crash-free rate maintained
-- 35% crash reduction via Firebase Crashlytics
-- 20–25% faster delivery after native→Flutter migration
+<br/>
 
-## 📬 Let's connect
-linkedin.com/in/shravan-apte · sapte32@gmail.com
+<a href="https://linkedin.com/in/shravan-apte" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:sapte32@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 🧠 what's going on in my head
+
+```kotlin
+val shravan = object : Developer {
+    val currentlyBuilding = "Uniqbizz — multi-module travel app"
+    val obsessedWith      = listOf("clean architecture", "zero crashes", "smooth UX")
+    val stack             = listOf("Flutter", "Kotlin", "Android SDK", "Firebase")
+    val located           = "Goa 🌊 (yes, it's as good as it sounds)"
+    val funFact           = "migrated 2 native apps to Flutter & never looked back"
+}
+```
+
+---
+
+### ⚡ things I actually care about
+
+- 📦 &nbsp; architecture that doesn't fall apart 6 months later
+- 🐛 &nbsp; crash rates so low they're basically a flex
+- 🔄 &nbsp; native → Flutter migrations that make the whole team happier
+- ☕ &nbsp; clean code over clever code, every time
+- 🚀 &nbsp; shipping on time without cutting corners
+
+---
+
+### 🛠 stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase,git,figma,postman&perline=9" />
+</p>
+
+---
+
+### 📌 currently building
+
+> **Uniqbizz** — A Flutter travel booking platform with 8+ modules including wallet, auth, and trip management. Built with Clean Architecture, 30+ REST API integrations, and a <1% crash rate.
+
+---
+
+### 📊 github stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShravanApte32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanApte32&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ShravanApte32&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>Flutter compiles to native. My bugs do not. 💀</i>
+</div>
