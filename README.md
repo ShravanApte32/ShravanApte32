@@ -4,7 +4,7 @@
 
 <br/>
 
-<p>Mobile dev from <b>Goa, India 🌊</b> · shipping apps since 2021 · Flutter & Android</p>
+<p>Software Developer · shipping apps since 2021 · Flutter & Android</p>
 
 <br/>
 
