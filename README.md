@@ -22,7 +22,6 @@
 
 ### 🧠 what's going on in my head
 
-```kotlin
 val shravan = object : Developer {
     val currentlyBuilding = "Uniqbizz — multi-module travel app"
     val obsessedWith      = listOf("clean architecture", "zero crashes", "smooth UX")
@@ -30,7 +29,6 @@ val shravan = object : Developer {
     val located           = "Goa 🌊 (yes, it's as good as it sounds)"
     val funFact           = "migrated 2 native apps to Flutter & never looked back"
 }
-```
 
 ---
 
