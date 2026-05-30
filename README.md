@@ -75,5 +75,5 @@ val shravan = object : Developer {
 ---
 
 <div align="center">
-  <i>Flutter compiles to native. My bugs do not. 💀</i>
+  <i>git blame always points back to me and I've accepted that 😭</i>
 </div>
