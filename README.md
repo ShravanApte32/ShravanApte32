@@ -38,7 +38,6 @@ val shravan = object : Developer {
 
 - 📦 &nbsp; architecture that doesn't fall apart 6 months later
 - 🐛 &nbsp; crash rates so low they're basically a flex
-- 🔄 &nbsp; native → Flutter migrations that make the whole team happier
 - ☕ &nbsp; clean code over clever code, every time
 - 🚀 &nbsp; shipping on time without cutting corners
 
