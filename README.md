@@ -57,13 +57,7 @@ val shravan = object : Developer {
 
 ---
 
-### 📊 github stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShravanApte32&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 <div align="center">
    git blame always points back to me and I've accepted that 😭
